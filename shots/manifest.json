@@ -1,0 +1,107 @@
+[
+ {
+  "path": "duo/01-p-01-home.png",
+  "size": 722239,
+  "md5": "7da052e8cb6d216e324f94bacc632911",
+  "width": 1398,
+  "height": 2034
+ },
+ {
+  "path": "duo/02-p-phone-air-3-play.png",
+  "size": 350957,
+  "md5": "624a42ec3e1b80dc74fc0500d2d23a8f",
+  "width": 1398,
+  "height": 2034
+ },
+ {
+  "path": "duo/03-race-3-play.png",
+  "size": 1325535,
+  "md5": "eaf8c96e2e2139c237737ff2ecef2215",
+  "width": 1398,
+  "height": 2034
+ },
+ {
+  "path": "duo/04-tank-phone-3-play.png",
+  "size": 320580,
+  "md5": "34f856e30b7e5e45fa39d0324f925636",
+  "width": 1398,
+  "height": 2034
+ },
+ {
+  "path": "duo/05-sumo-3-play.png",
+  "size": 1154733,
+  "md5": "c0d61838dd6eb7bf1c8e91680075acf4",
+  "width": 1398,
+  "height": 2034
+ },
+ {
+  "path": "duo/06-cycles-phone-3-play.png",
+  "size": 292928,
+  "md5": "1a1900043597045ddf4aea4167de2b9e",
+  "width": 1398,
+  "height": 2034
+ },
+ {
+  "path": "ipad/01-p-01-home.png",
+  "size": 724330,
+  "md5": "cff5fb034020d71808396c2e9417fa20",
+  "width": 2064,
+  "height": 2752
+ },
+ {
+  "path": "ipad/02-p-phone-air-3-play.png",
+  "size": 713660,
+  "md5": "7ade635db714c407c1b2cc745ba6e7d8",
+  "width": 2064,
+  "height": 2752
+ },
+ {
+  "path": "ipad/04-tank-phone-3-play.png",
+  "size": 655554,
+  "md5": "18e29da8ae02495d92e7429d675b0df3",
+  "width": 2064,
+  "height": 2752
+ },
+ {
+  "path": "iphone/01-p-01-home.png",
+  "size": 1018647,
+  "md5": "29b94eefda217cd69e5c20f1966171ca",
+  "width": 1320,
+  "height": 2868
+ },
+ {
+  "path": "iphone/02-p-phone-air-3-play.png",
+  "size": 399066,
+  "md5": "3ed2bd78b81df1f3a98dd70f2fc06550",
+  "width": 1320,
+  "height": 2868
+ },
+ {
+  "path": "iphone/03-race-3-play.png",
+  "size": 1690755,
+  "md5": "fd0792c3bf9e0a942f1bb28720317669",
+  "width": 1320,
+  "height": 2868
+ },
+ {
+  "path": "iphone/04-tank-phone-3-play.png",
+  "size": 348468,
+  "md5": "2f923faa39ffa5d0d58865cc123aaf43",
+  "width": 1320,
+  "height": 2868
+ },
+ {
+  "path": "iphone/05-sumo-3-play.png",
+  "size": 1111599,
+  "md5": "e04bf72de6919e92256385e355caeeaf",
+  "width": 1320,
+  "height": 2868
+ },
+ {
+  "path": "iphone/06-cycles-phone-3-play.png",
+  "size": 282083,
+  "md5": "7a4748b0bd8f35340b5a522ec02a8508",
+  "width": 1320,
+  "height": 2868
+ }
+]
